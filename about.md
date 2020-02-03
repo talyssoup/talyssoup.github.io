@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+B.S. in Biology, Loyola Marymount University
+Graduate Student in Mircobiology (PhD), University of California-Riverside
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+sort of like a lab notebook for life
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[talyssa.topacio@gmail.com](mailto:talyssa.topacio@gmail.com)
